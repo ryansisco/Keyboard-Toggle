@@ -9,12 +9,6 @@ It should work on other distros/models, but who knows.
 
 keyboard -help for help
 
-Turn OFF keyboard: 
-  keyboard off
-  keyboard OFF
-  keyboard 0
+Turn OFF keyboard: keyboard off, keyboard OFF, keyboard 0
   
-Turn ON keyboard:
-  keyboard on
-  keyboard ON
-  keyboard 1
+Turn ON keyboard:keyboard on, keyboard ON, keyboard 1
