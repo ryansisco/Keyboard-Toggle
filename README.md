@@ -8,5 +8,5 @@ Turns on/off built in laptop keyboard for Ubuntu.
 * run "./keyboard off, OFF, or 0" to turn it off
 
 
-If you have locked your keyboard, and cannot
-connect again, restart your laptop.
+*If you have locked your keyboard, and cannot
+connect again, restart your laptop.*
