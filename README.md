@@ -2,7 +2,7 @@
 Turns on/off built in laptop keyboard for Ubuntu. 
 
 
-markup :*run "make" to compile
+Markup : *run "make" to compile
 *run "./keyboard -help" for help
 *run "./keyboard -change" to change settings if needed
 *run "./keyboard [on, ON, 1]" to turn it on
